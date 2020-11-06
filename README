@@ -1,0 +1,8 @@
+This is the 5 November 2020 version of the GUI for the Pep/8 PRJ#02 Program.
+
+To run the program, run Pep8GUIDriver.java in the view package. Once ran, you will see a GUI pop up on your desktop.
+Once there, you can input random text into the "Object Code" and "Input" text areas, then press the buttons at the top
+of the window to get a bullet-point list that plans out how each button action will work with the Controller class.
+
+Test classes are located in the test package. Run JLabelTextAreaTest to check that the JUnit 5 tests all pass. There will
+be more GUI-related test classes to make once the Controller class gets implemented.
